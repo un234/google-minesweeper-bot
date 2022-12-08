@@ -417,7 +417,7 @@ class Minesweeper():
             self.updateCells()
             # self.updateCells()
             # self.showGrid()
-        print("I won!")
+        print("Nice job idiot!")
         return
 
 
